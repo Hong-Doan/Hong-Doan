@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there, I am Hong!👋
+People person committed to the finance profession: A love of numbers and all things finance. Mentor. Leader. Proponent of Women’s Initiative. Pay-it-forward spirit!
 
-<!--
-**Hong-Doan/Hong-Doan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact me [LinkedIn](https://www.linkedin.com/in/hongdoan/)
 
-Here are some ideas to get you started:
+![72587953_10157619830269518_8029742587403304960_o](https://user-images.githubusercontent.com/70985552/105918411-e0f02380-6001-11eb-8a12-730123a5cf1b.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✈ My Story
+I am a MBA candidate with concentrations in Finance and Business Analytics at William & Mary. I am passionate about exploring sustainability initiatives as a means to facilitate long-term growth. I am the P.E.O Woman Scholarship Recipient 2020 with the mission that helps women reach a star. I am passionate about diversity and inclusion that drives me to become the Elected-President of the International Students Association in the MBA community.
+
+Prior to beginning at William & Mary, I had over four years of diverse experiences in Finance, External Audit, Tax Advisory, and Business Analytics. I joined the Finance Leadership Development Program at Mondelez. I officially assisted in the merger and acquisition deal, Vietnam’s 10 largest M&A deals in the 2009-2018 period, when Mondelez entered the Vietnamese market in 2015. After that, I worked for KPMG in Corporate Tax Advisory and Audit Service. She has a strong interest in big data and data analytics to help businesses make a data-driven decision. 
+
+In last summer, I have incredible opportunities to have two internships: virtual internship in Sounding Board and in-person internship with Options For All – both focus in finance operation and financial analyst – help the organization make more data-drive decision and improve their operation process. In additional, I am the GA for Information Technology, focusing in forecast model and machine learning.  
+
+Growth mindset has enabled me to shift my careers in different roles in finance: M&A, tax advisor, accounting and auditing, adn Business Analytics. I love the intersaction between finance and technology and help company make more data-driven decision in finance area. 
+## ✍ Reference
+
+##### Christine Tao, Co-founder & CEO at Sounding Board, a start-up in the Bay area
+>*Hong made an impact at Sounding Board in a very short time as our intern. We gave her a meaty financial analysis project and with minimal guidance she was able to pull together something that far exceeded our expectations. But what I really appreciated about Hong was that she exemplified maturity and strategic thinking far beyond her years. Not only did she do great work, she took it upon herself to think beyond the numbers to generate recommendations for the business and how to move the data into action. And she did this all with a warm, passionate attitude that is infectious. Any company that hires her will be lucky to have her on their team!*
+##### Brian Zotti, Chief of Staff at Options For All, a non-profit orgnization in San Diego
+>*Hong was a member of our inaugural intern program and she certainly set a high bar for future interns to follow. Hong is not only a brilliant thinker who thrives on difficult problem solving challenges, she is a wonderfully collaborative team member that respects others' points of view and input. She was recently asked to help conduct an analysis on our client satisfaction data. Rather than recreate a report from the previous year, she thoughtfully and carefully developed a new approach to examining the data and displaying the results. The outcome was a far superior product that not only gave us insights but it directed us on what actions we should take to continuously improve our organizations' client satisfaction results*
+##### Ken Barnes, CEO at Options For All, a non-profit orgnization in San Diego
+>*Working with Hong was an absolute pleasure. She served as an MBA finance intern, providing deep fiscal analysis of our programs, as well as helping to manage the financial performance of our signature fundraising event. I've worked with a number of summer interns over the years, and Hong stands because she engaged the role as if she were a permanent employee. She's also willing to give her opinion, rather than simply saying what she believes others want to hear; that boldness is vitally important for persons serving in finance roles. She has a phenomenal career ahead of her, and we're all excited to see where life takes her*
+##### Senior Manager at Lotte Mart, former Audit Manager at KPMG
+>*I have known Hong for over 4 years, and she used to work directly with me in many audit engagements as the audit assistant at KPMG (Vietnam) Limited. As my observation, Hong is smart and always showing her strong commitment on all the engagements. She is good at accounting, finance and tax area including accounting standards, tax advisory, M&A financial due diligence, and audit assessment across industries in both private sectors and the non-profit sectors. Moreover, she is a clear and confident communicator with professional interpersonal skills to communicate with people of varied expertise*
